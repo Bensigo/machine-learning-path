@@ -1,6 +1,7 @@
-#Machine Learning Path
+# Machine Learning Path
 This repo would contain my machine learning path with python, using codecademy and I would also be teaching what I have learned in the process on my medium account. 🙏🏾 Star the project so we can reach out to many people out there.
 My medium account link
+\n
 [Medium Account(@Bensigo)](https://medium.com/@bensigo)
 
 ## Installation
